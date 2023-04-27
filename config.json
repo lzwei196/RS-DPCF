@@ -1,0 +1,17 @@
+{
+    "role": "worker",
+    "mode": "worker_oriented",
+    "worker_index": 1,
+    "master_ip": "127.0.0.1",
+    "master_port": 5000,
+    "worker_ip": "127.0.0.1",
+    "worker_port": 5001,
+    "autocalibration": "False",
+    "calibrating_parameter": "",
+    "calibrating_parameter_range": "",
+    "specific_site": "",
+    "all_sites": {},
+    "number_of_maximum_iterations": "",
+    "running_mode":"",
+    "parallel_mode":""
+}
