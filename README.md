@@ -1,6 +1,6 @@
 # RS-DPCF: RZ-SHAW Distributed Parallel Computing Framework
 
-A modularized parallel distributed high-performance computing framework for simulating seasonal frost dynamics in Canadian croplands.
+A modularized parallel distributed high-performance computing framework for simulating seasonal frost dynamics in croplands.
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.compag.2023.108057-blue)](https://doi.org/10.1016/j.compag.2023.108057)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
