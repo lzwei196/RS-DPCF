@@ -1,15 +1,15 @@
-# RS-DPCF: RZ-SHAW Distributed Parallel Computing Framework
+# RS-DPCF: Modularized Distributed Parallel Computing Framework
 
-A modularized parallel distributed high-performance computing framework for simulating seasonal frost dynamics in cold regions.
+A modularized, parallel, distributed, high-performance computing framework for simulating seasonal frost dynamics in cold regions.
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.compag.2023.108057-blue)](https://doi.org/10.1016/j.compag.2023.108057)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Description
 
-RS-DPCF is a Python-based modularized parallel distributed computing framework developed explicitly for the RZ-SHAW model to facilitate multi-site simulation and faster calibration. This framework integrates parallel computing techniques with distributed computing capabilities, allowing for significant reduction in simulation runtimes and improved scalability of computational resources.
+RS-DPCF is a Python-based, modularized parallel distributed computing framework developed not only for the RZ-SHAW model to facilitate multi-site simulation and accelerate calibration, but also for other cold region hydro models. This framework integrates parallel computing techniques with distributed computing capabilities, allowing for a significant reduction in simulation runtimes and improved scalability of computational resources.
 
-The winter/spring season in cold climate regions has been recognized as a critical period for cropland nutrient loss and greenhouse gas emissions, and is predicted to be vulnerable to climate change. RS-DPCF enables researchers to optimize the use of available computing resources for large-scale simulations of overwintering conditions across numerous croplands in Canada.
+The winter/spring season in cold climate regions has been recognized as a critical period for cropland nutrient loss and greenhouse gas emissions. It is predicted to be vulnerable to climate change. RS-DPCF enables researchers to optimize the use of available computing resources for large-scale simulations of overwintering conditions across numerous croplands in Canada.
 
 ## Features
 
